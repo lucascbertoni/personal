@@ -32,7 +32,7 @@ set splitbelow splitright
 
 " ** Vim Shortcuts/Mappings **
 
-" Swapping j and k because I'm not retarded.
+" Swapping j and k because it's no longer the 20th century.
 nnoremap j k
 nnoremap k j
 
